@@ -1,0 +1,56 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2024-03-26 15:41:45
+LastUsageStatisticCall<|||>1<|||>2024-03-26 15:41:46
+LastSessions<|||>1<|||>Mysqlconn
+LastActiveSession<|||>1<|||>Mysqlconn
+SessionManager_ListWidth<|||>3<|||>274
+SessionManager_WindowLeft<|||>3<|||>765
+SessionManager_WindowTop<|||>3<|||>287
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+ExportSQL_Filenames<|||>1<|||>C:\xampp\htdocs\FishingToy\online_shopping (2).sql<{{{><}}}>
+Servers\Mysqlconn\SessionCreated<|||>1<|||>2024-03-26 15:42:48
+Servers\Mysqlconn\Host<|||>1<|||>s554ongw9quh1xjs.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+Servers\Mysqlconn\WindowsAuth<|||>3<|||>0
+Servers\Mysqlconn\CleartextPluginEnabled<|||>3<|||>0
+Servers\Mysqlconn\User<|||>1<|||>o76n0dfihim7xbpp
+Servers\Mysqlconn\Password<|||>1<|||>6C706B76363D717F753E72756E686B755
+Servers\Mysqlconn\LoginPrompt<|||>3<|||>0
+Servers\Mysqlconn\Port<|||>1<|||>3306
+Servers\Mysqlconn\NetType<|||>3<|||>0
+Servers\Mysqlconn\Compressed<|||>3<|||>0
+Servers\Mysqlconn\LocalTimeZone<|||>3<|||>0
+Servers\Mysqlconn\QueryTimeout<|||>3<|||>30
+Servers\Mysqlconn\KeepAlive<|||>3<|||>20
+Servers\Mysqlconn\FullTableStatus<|||>3<|||>1
+Servers\Mysqlconn\Databases<|||>1<|||>ppxpixy42m6996am;shopping_online;fishingtoy;onlineshopping
+Servers\Mysqlconn\Library<|||>1<|||>libmariadb.dll
+Servers\Mysqlconn\Comment<|||>1<|||>
+Servers\Mysqlconn\StartupScriptFilename<|||>1<|||>
+Servers\Mysqlconn\TreeBackground<|||>3<|||>536870911
+Servers\Mysqlconn\SSHtunnelActive<|||>3<|||>0
+Servers\Mysqlconn\SshExecutable<|||>1<|||>
+Servers\Mysqlconn\SSHtunnelHost<|||>1<|||>
+Servers\Mysqlconn\SSHtunnelHostPort<|||>3<|||>22
+Servers\Mysqlconn\SSHtunnelUser<|||>1<|||>
+Servers\Mysqlconn\SSHtunnelPassword<|||>1<|||>4
+Servers\Mysqlconn\SSHtunnelTimeout<|||>3<|||>4
+Servers\Mysqlconn\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Mysqlconn\SSHtunnelPort<|||>3<|||>3307
+Servers\Mysqlconn\SSL_Active<|||>3<|||>0
+Servers\Mysqlconn\SSL_Key<|||>1<|||>
+Servers\Mysqlconn\SSL_Cert<|||>1<|||>
+Servers\Mysqlconn\SSL_CA<|||>1<|||>
+Servers\Mysqlconn\SSL_Cipher<|||>1<|||>
+Servers\Mysqlconn\IgnoreDatabasePattern<|||>1<|||>
+Servers\Mysqlconn\LogFileDdl<|||>3<|||>0
+Servers\Mysqlconn\LogFileDml<|||>3<|||>0
+Servers\Mysqlconn\LogFilePath<|||>1<|||>C:\Users\tuann\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Mysqlconn\ServerVersionFull<|||>1<|||>8.0.35 - Source distribution
+Servers\Mysqlconn\ConnectCount<|||>3<|||>1
+Servers\Mysqlconn\ServerVersion<|||>3<|||>80035
+Servers\Mysqlconn\LastConnect<|||>1<|||>2024-03-26 15:45:26
+Servers\Mysqlconn\lastUsedDB<|||>1<|||>

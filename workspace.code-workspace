@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Web dạo này hơi cọc"
+		},
+		{
+			"path": "..\\Mystore"
+		},
+		{
+			"path": "..\\ASM_200138"
+		},
+		{
+			"path": "..\\ASM_200138_HaNgocHien"
+		},
+		{
+			"path": "Source"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ASM_200138"
+	}
+}
